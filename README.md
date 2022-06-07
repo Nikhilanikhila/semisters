@@ -5,3 +5,9 @@
   ed
   eng
   psc
+1_2:
+  m2
+  che
+  dsc
+  evs
+  eng
